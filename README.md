@@ -20,7 +20,7 @@ Including:
 
 # App Screenshots:
 * Navigation screens
-* <img src="[https://github.com/favicon.ico](https://user-images.githubusercontent.com/51151820/187616101-ff01149d-406b-468e-a6f1-f1aa041d70e0.png)" width="48" height = "48">
+* <img src="[https://github.com/favicon.ico](https://user-images.githubusercontent.com/51151820/187616101-ff01149d-406b-468e-a6f1-f1aa041d70e0.png)" width="250" height = "250">
 ![Screenshot_1661929622](https://user-images.githubusercontent.com/51151820/187616101-ff01149d-406b-468e-a6f1-f1aa041d70e0.png)
 ![Screenshot_1661929624](https://user-images.githubusercontent.com/51151820/187616108-085447bf-9626-48bc-ab8f-39a6ad25a096.png)
 ![Screenshot_1661929613](https://user-images.githubusercontent.com/51151820/187616114-a149a5fc-2516-4fc8-9469-3ff2d6e4c7e5.png)

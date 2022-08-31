@@ -19,13 +19,16 @@ Including:
 * Compose frameWork
 # App Screenshots:
 * Navigation screens
- <style>
-    img {
-        width: 150px;
-        height: 200px;
-        max-width: 100%;
-    }
-</style>
+ <svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+           ![Screenshot_1661929622](https://user-images.githubusercontent.com/51151820/187616101-ff01149d-406b-468e-a6f1-f1aa041d70e0.png)
+![Screenshot_1661929624](https://user-images.githubusercontent.com/51151820/187616108-085447bf-9626-48bc-ab8f-39a6ad25a096.png)
+![Screenshot_1661929613](https://user-images.githubusercontent.com/51151820/187616114-a149a5fc-2516-4fc8-9469-3ff2d6e4c7e5.png)
+![Screenshot_1661929617](https://user-images.githubusercontent.com/51151820/187616116-691dac7b-5ded-4cfb-85e1-ec881284fd52.png)
+        </div>
+    </foreignObject>
+</svg>
 ![Screenshot_1661929622](https://user-images.githubusercontent.com/51151820/187616101-ff01149d-406b-468e-a6f1-f1aa041d70e0.png)
 ![Screenshot_1661929624](https://user-images.githubusercontent.com/51151820/187616108-085447bf-9626-48bc-ab8f-39a6ad25a096.png)
 ![Screenshot_1661929613](https://user-images.githubusercontent.com/51151820/187616114-a149a5fc-2516-4fc8-9469-3ff2d6e4c7e5.png)

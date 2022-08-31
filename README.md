@@ -19,7 +19,7 @@ Including:
 * Compose frameWork
 # App Screenshots:
 * Navigation screens
-* <style>
+ <style>
     img {
         width: 150px;
         height: 200px;

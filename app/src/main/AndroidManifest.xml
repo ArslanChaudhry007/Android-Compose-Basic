@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.composetest">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ComposeTest"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="31">
+        <activity
+            android:name=".LazyColumnAndStickHeaderActivity"
+            android:exported="false"
+            android:label="@string/title_activity_lazy_column_and_stick_header"
+            android:theme="@style/Theme.ComposeTest" />
+        <activity
+            android:name=".GradientButtonActivity"
+            android:exported="false"
+            android:label="@string/title_activity_gradient_button"
+            android:theme="@style/Theme.ComposeTest" />
+        <activity
+            android:name=".PasswordTextFieldActivity"
+            android:exported="false"
+            android:label="@string/title_activity_password_text_field"
+            android:theme="@style/Theme.ComposeTest" />
+        <activity
+            android:name=".CoilActivity"
+            android:exported="false"
+            android:label="@string/title_activity_coil"
+            android:theme="@style/Theme.ComposeTest" />
+        <activity
+            android:name=".googleButtonVC.GoogleButtonActivity"
+            android:exported="false"
+            android:label="@string/title_activity_google_button"
+            android:theme="@style/Theme.ComposeTest" />
+        <activity
+            android:name=".TextFielsActivity"
+            android:exported="false"
+            android:label="@string/title_activity_text_fiels"
+            android:theme="@style/Theme.ComposeTest" />
+        <activity
+            android:name=".ExpandableActivity"
+            android:exported="false"
+            android:label="@string/title_activity_expandable"
+            android:theme="@style/Theme.ComposeTest" />
+        <activity
+            android:name=".TextSubscriptActivity"
+            android:exported="false"
+            android:label="@string/title_activity_text_subscript"
+            android:theme="@style/Theme.ComposeTest" />
+        <activity
+            android:name=".TextSelectionActivity"
+            android:exported="false"
+            android:label="@string/title_activity_text_selection"
+            android:theme="@style/Theme.ComposeTest" />
+        <activity
+            android:name=".TextCustomization"
+            android:exported="false"
+            android:label="@string/title_activity_text_customization"
+            android:theme="@style/Theme.ComposeTest" />
+        <activity
+            android:name=".BoxActivity"
+            android:exported="false"
+            android:label="@string/title_activity_box"
+            android:theme="@style/Theme.ComposeTest" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.ComposeTest">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

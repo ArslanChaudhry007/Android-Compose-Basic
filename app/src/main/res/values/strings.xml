@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ComposeTest</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_box">BoxActivity</string>
+    <string name="title_activity_text_customization">TextCustomization</string>
+    <string name="title_activity_text_selection">TextSelectionActivity</string>
+    <string name="title_activity_text_subscript">TextSubscriptActivity</string>
+    <string name="title_activity_expandable">ExpandableActivity</string>
+    <string name="title_activity_text_fiels">TextFielsActivity</string>
+    <string name="title_activity_google_button">GoogleButtonActivity</string>
+    <string name="title_activity_coil">CoilActivity</string>
+    <string name="title_activity_password_text_field">PasswordTextFieldActivity</string>
+    <string name="title_activity_gradient_button">GradientButtonActivity</string>
+    <string name="title_activity_lazy_column_and_stick_header">LazyColumnAndStickHeaderActivity
+    </string>
+</resources>

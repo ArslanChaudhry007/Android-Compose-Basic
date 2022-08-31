@@ -1,2 +1,2 @@
-# Android Compose Basic widgets <br />
+# Android Compose Basic widgets 
 //

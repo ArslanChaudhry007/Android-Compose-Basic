@@ -32,7 +32,7 @@ Including:
 * Expandable Card
 
 <img src="https://user-images.githubusercontent.com/51151820/187616660-39908e8a-2c9d-49a6-8680-79bac4859697.png" width="170" height="300">
-![Screenshot_1661929966](https://user-images.githubusercontent.com/51151820/187616660-39908e8a-2c9d-49a6-8680-79bac4859697.png)
+
 
 * Text Customization
 
